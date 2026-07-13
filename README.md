@@ -8,6 +8,8 @@ Repositorio creado para seguir el curso **"Git y GitHub desde Cero (2ª Edición
 - **Curso:** Git y GitHub desde Cero (2ª Edición)
 - **Capítulo actual:** 23, 24, 25, 26... - GitHub
 
+![Banner](banner.png)
+
 ## Objetivo
 
 Practicar los conceptos fundamentales de **Git** y **GitHub**, realizando ejemplos y ejercicios a lo largo del curso.
