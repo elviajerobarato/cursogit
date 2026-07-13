@@ -2,13 +2,14 @@
 
 Repositorio creado para seguir el curso **"Git y GitHub desde Cero (2ª Edición)"** de **Brais Moure**.
 
+![Banner](banner.png)
+
 ## Información
 
 - **Repositorio:** `cursogit`
 - **Curso:** Git y GitHub desde Cero (2ª Edición)
 - **Capítulo actual:** 23, 24, 25, 26... - GitHub
 
-![Banner](banner.png)
 
 ## Objetivo
 
