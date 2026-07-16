@@ -1,5 +1,7 @@
 # Curso Git y GitHub desde Cero
 
+Fichero alojado en rama *second*
+
 Repositorio creado para seguir el curso **"Git y GitHub desde Cero (2ª Edición)"** de **Brais Moure**.
 
 ![Banner](banner.png)
