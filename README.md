@@ -8,7 +8,7 @@ Repositorio creado para seguir el curso **"Git y GitHub desde Cero (2ª Edición
 
 - **Repositorio:** `cursogit`
 - **Curso:** Git y GitHub desde Cero (2ª Edición)
-- **Capítulo actual:** 23, 24, 25, 26... - GitHub
+- **Capítulo actual:** 23, 24... 37 - GitHub
 
 
 ## Objetivo
